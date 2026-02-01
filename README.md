@@ -1,5 +1,5 @@
 
-# 📱 UI/UX Designs – Figma Projects
+# 📱 UI/UX Design Portfolio – Figma Projects
 
 ## 🎨 Overview
 This repository contains UI/UX designs created using Figma for multiple mobile and web applications.  
